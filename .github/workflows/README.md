@@ -1,6 +1,6 @@
-¡ Hello !
+<h1>¡ Hello !</h1>
 
-I answered an advertisement for help and included this link, or greetings! Thankful to stay career-focused with customer-service and communication complimenting the education I received in college where i also got to work as a Tier 1 Helpdesk for Faculty and Staff, post-graduation, I am always looking to work in the field of computers; I love computers.
+I answered an advertisement for help and included this link, or otherwise: <i>Greetings!</i> Thankful to stay career-focused with customer-service and communication complimenting the education I received in college where i also got to work as a Tier 1 Helpdesk for Faculty and Staff, post-graduation, I am always looking to work in the field of computers; I love computers.
 
 PURDUE
 https://www.purdue.edu
