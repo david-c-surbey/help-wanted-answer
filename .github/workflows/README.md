@@ -1,11 +1,12 @@
 <h1>¡ Hello !</h1>
 
-I answered an advertisement for help and included this link, or otherwise: <i>Greetings!</i> Thankful to stay career-focused with customer-service and communication complimenting the education I received in college where i also got to work as a Tier 1 Helpdesk for Faculty and Staff, post-graduation, I am always looking to work in the field of computers; I love computers.
+I answered your advertisement for help and included this link, or otherwise: <i>Greetings!</i> Thankful to stay career-focused with customer-service and communication complimenting the education I received in college, where as i also got to work as a Tier 1 Helpdesk for Faculty and Staff post-graduation, I habitually look to work in the field of computers; I love computers.
 
 PURDUE
 https://www.purdue.edu
 
-There, taught is everything for information systems and very little professional skill to memorization. An Engineering College, they offered me a Bachelor's of Science and covered EVERYTHING regarding computers, so the 1950's to the commitment of the OSI:Technology to Consumers in the 1980's, base-level-technological-understanding. Purdue started as a college in the 1800's and was included on a course, which i loved. Networking, Servers, Desktop troubleshooting, planning Databases, and even Programming. 'Everything computer.'" By the time they could provide, when i went to school, it all up to the Internet age, you'd be astounded on how much generic coverage brings a full Information Systems Degree, that I've continued with education past a single degree there.
+<p>
+  The education i received and centered around my two resumes, below. I felt at, Purdue, taught in everything for information systems and very little professional skilled into memorization of answer. Never taught a routine but taught the fundamentals repeatedly refined. An Engineering College, they offered me a Bachelor's of Science and covered EVERYTHING regarding computers, which i loved. Networking, Servers, Desktop-troubleshooting, planning Databases, and even Programming; how everything was and how it started, stuck, & re-searched as stable Software or Hardware. As i was often comfortable on the phones, a person stayed neither and computer equipment went back into operation with software and hardware all working...</p>
 
 <ul> <li>
 By: <b>Resume(s)</b>
