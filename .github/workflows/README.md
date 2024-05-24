@@ -1,6 +1,6 @@
 <h1>-Resume(s)</h1>
 <p>
-  My current: <span type="underlined"> resume </span>
+  My current: <span type="u"> resume </span>
 </p>
 <ul>
 <li>
