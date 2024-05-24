@@ -1,6 +1,6 @@
 <h1>-Resume(s)</h1>
 <p>
-  My current: <u> resume </u>
+  My current: <underlined> resume </underlined>
 </p>
 <ul>
 <li>
