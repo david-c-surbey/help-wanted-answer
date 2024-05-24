@@ -6,7 +6,8 @@
 <li>Post Purdue<a href='https://github.com/david-c-surbey/help-wanted-answer/blob/work-as/.github/workflows/circa_-E.T.L.s-&-E.L.T.s-_my2023_Resume.pdf', link:true> :.HERE.:
 </a>
 </li>
-<li>Including Hire Pre-Graduation<a href='https://github.com/david-c-surbey/help-wanted-answer/blob/work-as/.github/workflows/circa_Win7_my2010_Resume.pdf', link:true> ::.HERE.::
+<li>Including Hire, <br>
+Pre-Graduation<a href='https://github.com/david-c-surbey/help-wanted-answer/blob/work-as/.github/workflows/circa_Win7_my2010_Resume.pdf', link:true> ::.HERE.::
 </a>
 </li>
 </ul>
