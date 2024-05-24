@@ -1,11 +1,17 @@
 <h1>-Resume(s)</h1>
+<p>
+  My current: <u> resume </u>
+</p>
 <ul>
 <li>
-<a href='https://github.com/david-c-surbey/help-wanted-answer/blob/work-as/.github/workflows/circa_-E.T.L.s-&-E.L.T.s-_my2023_Resume.pdf', link:true>circa_-E.T.L.s-&-E.L.T.s-_my2023_Resume.pdf
+  Additional And Previous
+</li>
+<li>
+<a href='https://github.com/david-c-surbey/help-wanted-answer/blob/work-as/.github/workflows/circa_-E.T.L.s-&-E.L.T.s-_my2023_Resume.pdf', link:true>Post College
 </a>
 </li>
 <li>
-<a href='https://github.com/david-c-surbey/help-wanted-answer/blob/work-as/.github/workflows/circa_Win7_my2010_Resume.pdf', link:true>circa_Win7_my2010_Resume.pdf
+<a href='https://github.com/david-c-surbey/help-wanted-answer/blob/work-as/.github/workflows/circa_Win7_my2010_Resume.pdf', link:true>Including College Graduation.pdf
 </a>
 </li>
 </ul>
