@@ -6,12 +6,10 @@
 <li>
   Additional And Previous
 </li>
-<li>
-<a href='https://github.com/david-c-surbey/help-wanted-answer/blob/work-as/.github/workflows/circa_-E.T.L.s-&-E.L.T.s-_my2023_Resume.pdf', link:true>Post College
+<li>Post Purdue<a href='https://github.com/david-c-surbey/help-wanted-answer/blob/work-as/.github/workflows/circa_-E.T.L.s-&-E.L.T.s-_my2023_Resume.pdf', link:true> :.HERE.:
 </a>
 </li>
-<li>
-<a href='https://github.com/david-c-surbey/help-wanted-answer/blob/work-as/.github/workflows/circa_Win7_my2010_Resume.pdf', link:true>Including College Graduation.pdf
+<li>Including Hire Pre-Graduation at Purdue<a href='https://github.com/david-c-surbey/help-wanted-answer/blob/work-as/.github/workflows/circa_Win7_my2010_Resume.pdf', link:true> ::.HERE.::
 </a>
 </li>
 </ul>
@@ -21,7 +19,7 @@
 Hello and I answered your advertisement for help this link, or otherwise: <i>¡Greetings!</i> With customer-service as my career focus, I habitually look to work in the field of computers; I love computers. They work right out of the box; they work with a factory reset. Guaranteed.
 
 PURDUE
-https://www.purdue.edu
+https://www.purdue.edu <a href="purdue.edu> ...here</a>
 
   The education I received and centered around my two resumes above, happened with Purdue. An Engineering University from the 1800's that taught in everything information systems, paper to electronic. An Engineering College, that offered me a Bachelor's of Science and covered EVERYTHING regarding computers to pick a career. Networking, Servers, Desktop-troubleshooting, planning Databases, and even Programming; how everything was and how it started, stuck, & re-searched as stable Software or Hardware. As I was often the most comfortable of the group on the phone, I picked a generalist career. I picked Junior or Jr. Systems Administration. I'd learn to answer on in emergency and keep my edge off communicating easier-than-most-computer-nerd.
 
