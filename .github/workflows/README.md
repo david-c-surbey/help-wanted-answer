@@ -41,7 +41,7 @@ As a programmer, in Ruby on Rails and Elixir, other Object Oriented and Fully Fu
 <li>Salaries and monies exampled <a href='https://github.com/david-c-surbey/help-wanted-answer/.github/workflows
 /Dollars$$_and_monies.txt'> :HERE:.
 </li>
-<li>My transcripts<a href='https://github.com/david-c-surbey/help-wanted-answer/blob/work-as/.github/workflows/circa_2005-to-2009_purdue_transcripts.pdf', link:true> ::HERE:
+<li>My transcripts<a href='https://github.com/david-c-surbey/help-wanted-answer/blob/work-as/.github/workflows/circa_2005-to-2009_purdue_transcripts.pdf', link:true> ::HERE::.
 </a>
 </li>
 <li>Previous Employers<a
