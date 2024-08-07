@@ -4,5 +4,4 @@
 
 Resume: <address>* - Sys. Administrator <br>
         * - Programmer<br>
-        * - ¡would<br>
-          &nbsp - travel!<br></address>
+        * - ¡would travel!<br></address>
